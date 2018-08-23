@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name BGA_Extra)(type KiCad)(uri ${KIPRJMOD}/libs/BGA_Extra.pretty)(options "")(descr ""))
+  (lib (name Molex_SDCARD)(type KiCad)(uri ${KIPRJMOD}/libs/Molex_SDCARD.pretty)(options "")(descr ""))
+)

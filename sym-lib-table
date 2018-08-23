@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ATSAM3U)(type Legacy)(uri ${KIPRJMOD}/libs/ATSAM3U.lib)(options "")(descr ""))
+)
